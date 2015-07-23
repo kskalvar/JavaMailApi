@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/mail/dsn/1.4.5/dsn-1.4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/mail/imap/1.4.5/imap-1.4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/mail/smtp/1.4.5/smtp-1.4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/mail/pop3/1.4.5/pop3-1.4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/mail/mailapi/1.4.5/mailapi-1.4.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
